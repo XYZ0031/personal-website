@@ -14,10 +14,10 @@ Currently developing hands-on skills in networking and security fundamentals.
 
  
 Email:josephmajanja8@gmail.com
+
 Phone:0703745624
 
 
 
 Skill - Level:
-
 Undergraduate in DIGITAL FORENSICS
