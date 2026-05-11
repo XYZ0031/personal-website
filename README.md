@@ -21,3 +21,6 @@ Phone:0703745624
 
 Skill - Level:
 Undergraduate in DIGITAL FORENSICS
+<button class="custom-button">Download CV</button>
+
+<a href="your-link-here.html" class="custom-button">View Projects</a>
