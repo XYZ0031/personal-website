@@ -10,6 +10,7 @@
 
 <!-- Header -->
 <header>
+<img src="profile.jpg" alt="Profile Picture" class="profile-img">
     <h1>Your Name</h1>
     <p>Aspiring Cybersecurity Analyst</p>
 </header>
