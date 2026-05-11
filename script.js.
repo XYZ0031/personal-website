@@ -1,1 +1,6 @@
+console.log("Personal website loaded");
 
+// Simple interaction example
+document.querySelector("header").addEventListener("click", () => {
+    alert("Welcome to my personal page!");
+});
