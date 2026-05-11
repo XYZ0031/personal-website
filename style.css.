@@ -33,14 +33,13 @@ footer {
     background: #222;
     color: white;
 }
-/* This makes the image a nice circle */
-.profile-img {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
-    object-fit: cover;
+.profile-photo { 
+    width: 180px; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 50%; 
+    border: 4px solid #007bff; 
     display: block;
     margin: 20px auto;
-    border: 4px solid #007bff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
 }
-.profile-photo { width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,.15); }
