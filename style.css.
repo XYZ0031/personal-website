@@ -43,18 +43,3 @@ footer {
     margin: 20px auto;
     box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
 }
-.profile-img {
-  /* Positioning */
-  position: absolute;
-  top: 20px;
-  right: 20px;
-
-  /* Size and Shape */
-  width: 120px;      /* Adjust size as needed */
-  height: 120px;     /* Must be the same as width for a perfect circle */
-  border-radius: 50%;
-  object-fit: cover; /* Ensures the image doesn't stretch */
-  
-  /* Optional: Adds a nice border */
-  border: 3px solid #333;
-}
