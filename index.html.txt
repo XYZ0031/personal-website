@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header -->
+<header>
+    <h1>Joseph Majanja</h1>
+    <p>Aspiring Cybersecurity Analyst</p>
+</header>
+
+<!-- About Section -->
+<section id="about">
+    <h2>About Me</h2>
+    <img src="profile.jpg" alt="Profile Photo">
+    <p>
+        I am passionate about IT, cybersecurity, and logistics systems.
+        I am currently building skills in networking, Python, and JavaScript.
+    </p>
+</section>
+
+<!-- Skills Section -->
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Networking Basics</li>
+        <li>Cybersecurity Awareness</li>
+    </ul>
+</section>
+
+<!-- Projects Section -->
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li>
+            <strong>Warehouse Management System</strong><br>
+            A system for tracking inventory and logistics operations.
+        </li>
+        <li>
+            <strong>Cybersecurity Training Checklist</strong><br>
+            A guide to improve security awareness and best practices.
+        </li>
+    </ul>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: josephmajanja8@email.com</p>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>© 2026 Joseph Majanja</p>
+</footer>
+
+<!-- JavaScript Link -->
+<script src="script.js"></script>
+
+</body>
+</html>
