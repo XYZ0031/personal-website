@@ -28,7 +28,8 @@
 <!-- Skills Section -->
 <section id="skills">
     <h2>Skills</h2>
-    <ul>
+   <img src="profile.jpeg"class="profile-photo"alt"Profile photo">
+<ul>
         <li>Python</li>
         <li>JavaScript</li>
         <li>Networking Basics</li>
