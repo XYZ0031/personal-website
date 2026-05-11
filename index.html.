@@ -10,7 +10,7 @@
 
 <!-- Header -->
 <header>
-<img src="profile,jpg"alt="Profile photo of JOSEPH MAJANJA"class="profile-photo">
+<img src="profile.jpg"class="profile-photo"alt"Profile">
     <h1>JOSEPH MAJANJA</h1>
     <p>Aspiring Cybersecurity Analyst</p>
 </header>
