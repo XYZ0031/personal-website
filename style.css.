@@ -43,3 +43,21 @@ footer {
     margin: 20px auto;
     box-shadow: 0 4px 12px rgba(0,0,0,0.2); 
 }
+.custom-button {
+  background-color: #007bff; /* A nice professional blue */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px; /* Slightly rounded corners */
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none; /* Removes underline if using <a> tag */
+  display: inline-block;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+
+/* Change color when hovering */
+.custom-button:hover {
+  background-color: #0056b3;
+}
