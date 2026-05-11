@@ -43,14 +43,4 @@ footer {
     margin: 20px auto;
     border: 4px solid #007bff;
 }
-/* This part styles the profile image specifically */
-.profile-img {
-    width: 200px;         /* Size of the photo */
-    height: 200px;        /* Must match width for a circle */
-    border-radius: 50%;   /* This creates the circular shape */
-    object-fit: cover;    /* Ensures the face isn't stretched */
-    display: block;       /* Centers the image */
-    margin: 20px auto;    /* Adds space around the image */
-    border: 5px solid #007bff; /* Adds a blue border around the circle */
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* Adds a nice shadow */
-}
+.profile-photo { width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,.15); }
