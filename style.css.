@@ -33,3 +33,12 @@ footer {
     background: #222;
     color: white;
 }
+.profile-img {
+    width: 150px;        /* This sets the size */
+    height: 150px;       /* This keeps it square */
+    border-radius: 50%;  /* This makes it a circle */
+    object-fit: cover;   /* This makes sure the face isn't squished */
+    display: block;      /* These next two lines center the image */
+    margin: 20px auto; 
+    border: 2px solid #333; 
+}
