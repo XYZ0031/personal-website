@@ -1,4 +1,4 @@
- Joseph Majanja
+ JOSEPH MAJANJA
 
  Aspiring Cybersecurity Analyst / IT Enthusiast  
  Focusing on Network Security & System Protection 
