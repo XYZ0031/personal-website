@@ -10,7 +10,7 @@
 
 <!-- Header -->
 <header>
-    <h1>Joseph Majanja</h1>
+    <h1>Your Name</h1>
     <p>Aspiring Cybersecurity Analyst</p>
 </header>
 
@@ -53,16 +53,14 @@
 <!-- Contact Section -->
 <section id="contact">
     <h2>Contact</h2>
-    <p>Email: josephmajanja8@email.com</p>
+    <p>Email: your@email.com</p>
 </section>
 
 <!-- Footer -->
 <footer>
-    <p>© 2026 Joseph Majanja</p>
+    <p>© 2026 Your Name</p>
 </footer>
 
-<!-- JavaScript -->
 <script src="script.js"></script>
-
 </body>
 </html>
