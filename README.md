@@ -13,7 +13,10 @@ Currently developing hands-on skills in networking and security fundamentals.
  Contacts;
 
  
-Email:josephmajanja8@gmail.com   Phone:0703745624
+Email:josephmajanja8@gmail.com 
+Phone:0703745624
+
+
 
 Skill - Level:
 
